@@ -1,8 +1,5 @@
-let firstNumber = 1;
-let secondNumber = 2;
-
 function multiply(firstNumber, secondNumber) {
-    let result = firstNumber * secondNumber;
+    let result = firstNumber + secondNumber;
     return result;
 }
 
